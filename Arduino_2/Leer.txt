@@ -1,0 +1,2 @@
+El puesto serie esta usado por el sensor cardiaco con la frecuencia a 115200.
+El display tiene un cable en el puerto 13 que ira conectado al otro Arduino al A2
